@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Writtor",
+    "slug": "writtor",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "android": {
+      "package": "com.notshekhar.writtor",
+      "versionCode": 1,
+      "permissions": [],
+      "icon": "./assets/icon.png"
+    },
+
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#212121"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
