@@ -1,4 +1,4 @@
-# Writtor_using_React_Native_and_Redux
+# Writtor - A Simple Note App using React Native and Redux
 
 - Clone Repository 
 `git clone https://github.com/notshekhar/writtor.git`
